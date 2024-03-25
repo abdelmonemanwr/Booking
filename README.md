@@ -38,7 +38,7 @@ We welcome contributions from the community to enhance the functionality and usa
 
 ## Support
 
-If you encounter any issues or have any questions, feel free to open an issue on GitHub or contact our support team at [support@example.com](mailto:support@example.com).
+If you encounter any issues or have any questions, feel free to open an issue on GitHub or contact our support team at [team@gmail.com](mailto:abdelmonemanwr7777@gmail.com).
 
 ## About Us
 
